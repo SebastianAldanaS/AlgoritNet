@@ -1,0 +1,14 @@
+C:\Users\Sebas\source\repos\Prueba de algoritmia\Prueba de algoritmia\bin\Release\Prueba de algoritmia.exe.config
+C:\Users\Sebas\source\repos\Prueba de algoritmia\Prueba de algoritmia\bin\Release\Prueba de algoritmia.exe
+C:\Users\Sebas\source\repos\Prueba de algoritmia\Prueba de algoritmia\bin\Release\Prueba de algoritmia.pdb
+C:\Users\Sebas\source\repos\Prueba de algoritmia\Prueba de algoritmia\obj\Release\Prueba de algoritmia.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\Prueba de algoritmia\Prueba de algoritmia\obj\Release\Prueba_de_algoritmia.Form1.resources
+C:\Users\Sebas\source\repos\Prueba de algoritmia\Prueba de algoritmia\obj\Release\Prueba_de_algoritmia.Properties.Resources.resources
+C:\Users\Sebas\source\repos\Prueba de algoritmia\Prueba de algoritmia\obj\Release\Prueba de algoritmia.csproj.GenerateResource.cache
+C:\Users\Sebas\source\repos\Prueba de algoritmia\Prueba de algoritmia\obj\Release\Prueba de algoritmia.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\Prueba de algoritmia\Prueba de algoritmia\obj\Release\Prueba de algoritmia.exe
+C:\Users\Sebas\source\repos\Prueba de algoritmia\Prueba de algoritmia\obj\Release\Prueba de algoritmia.pdb
+C:\Users\Sebas\source\repos\Prueba de algoritmia\Prueba de algoritmia\bin\Release\Prueba de algoritmia.exe.manifest
+C:\Users\Sebas\source\repos\Prueba de algoritmia\Prueba de algoritmia\bin\Release\Prueba de algoritmia.application
+C:\Users\Sebas\source\repos\Prueba de algoritmia\Prueba de algoritmia\obj\Release\Prueba de algoritmia.exe.manifest
+C:\Users\Sebas\source\repos\Prueba de algoritmia\Prueba de algoritmia\obj\Release\Prueba de algoritmia.application
