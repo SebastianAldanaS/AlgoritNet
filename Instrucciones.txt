@@ -1,2 +1,2 @@
 Para ejecutar el programa solo es abrir el archivo .exe que se encuentra dentro de la carpeta principal.
-Para visualizar el código abrirlo con Visual Studio y revisar el código en el archivo Form1.cs y el diseño en Form.cs [Diseño].
+Para visualizar el código abrirlo con Visual Studio y revisar el código en el archivo Form1.cs y el diseño en Form1.cs [Diseño].
